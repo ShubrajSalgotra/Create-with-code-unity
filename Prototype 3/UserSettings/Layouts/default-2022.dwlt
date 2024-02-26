@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 19
+  controlID: 27
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 18
+  controlID: 26
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -498,7 +498,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Challenge 3/Sound
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -514,7 +514,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 8a590000
     m_LastClickedID: 22922
-    m_ExpandedIDs: 00000000e45b0000e65b0000e85b0000ea5b0000ec5b0000ee5b0000f05b0000
+    m_ExpandedIDs: 00000000aa5b0000ac5b0000ae5b0000b05b0000b25b0000b45b0000b65b0000b85b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -542,18 +542,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000e45b0000ea5b0000ee5b0000f05b0000
+    m_ExpandedIDs: ffffffff00000000aa5b0000ac5b0000ae5b0000b05b0000b25b0000b45b0000b65b0000b85b0000ec5b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Obstacle
-      m_OriginalName: Obstacle
+      m_Name: PlayerControllerX
+      m_OriginalName: PlayerControllerX
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 23018
+      m_UserData: 20808
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -1026,9 +1026,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.087356, y: 0.710244, z: 1.2025206}
+    m_Target: {x: 0.86255056, y: 8.246403, z: -4.0005436}
     speed: 2
-    m_Value: {x: 6.087356, y: 0.710244, z: 1.2025206}
+    m_Value: {x: 0.86255056, y: 8.246403, z: -4.0005436}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1074,13 +1074,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.19317813, y: 0.077324644, z: -0.015270635, w: -0.97801983}
+    m_Target: {x: -0.021004643, y: -0.015897933, z: 0.0003371468, w: -0.99965847}
     speed: 2
-    m_Value: {x: -0.19317302, y: 0.077322595, z: -0.01527023, w: -0.97799397}
+    m_Value: {x: -0.021004528, y: -0.015897846, z: 0.00033714494, w: -0.999653}
   m_Size:
-    m_Target: 5.666042
+    m_Target: 15.569821
     speed: 2
-    m_Value: 5.666042
+    m_Value: 15.569821
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1142,8 +1142,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: f0590000
+      m_LastClickedID: 23024
       m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
